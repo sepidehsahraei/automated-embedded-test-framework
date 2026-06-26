@@ -1,0 +1,77 @@
+# =========================
+# Python cache files
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# =========================
+# Pytest cache
+# =========================
+.pytest_cache/
+
+
+# =========================
+# Logs
+# Keep the logs folder structure, but ignore generated log files
+# =========================
+logs/*
+!logs/.gitkeep
+*.log
+
+
+# =========================
+# Generated reports
+# Keep the reports folder structure, but ignore generated report files
+# =========================
+reports/*
+!reports/.gitkeep
+
+
+# =========================
+# Virtual environments
+# =========================
+venv/
+.venv/
+env/
+ENV/
+
+
+# =========================
+# Environment variables
+# =========================
+.env
+.env.*
+
+
+# =========================
+# IDE and editor files
+# =========================
+.vscode/
+.idea/
+*.code-workspace
+
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+
+# =========================
+# Build and distribution folders
+# =========================
+build/
+dist/
+*.egg-info/
+
+
+# =========================
+# Coverage files
+# =========================
+.coverage
+htmlcov/
+coverage.xml
