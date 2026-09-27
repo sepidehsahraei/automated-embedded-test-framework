@@ -21,3 +21,4 @@ A Python-based framework for automated validation and testing of embedded device
 ## Status
 
 Work in progress.
+Jenkins polling test
